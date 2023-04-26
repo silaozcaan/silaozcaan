@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @silaozcaan
-- 🌱 I’m currently learning Python..
+- 🌱 I’m currently learning Html, Css, Javascript
 - 📫 How to reach me ozcannsila@gmail.com
 
 <!---
